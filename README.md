@@ -7,13 +7,13 @@
 <p align="center">Ellen Joe from Zenless Zone Zero, brought to League of Legends.</p>
 
 <p align="center">
-  <a href="https://github.com/runefoo/ellen-joe-league-skins/releases/tag/talon-v2.4.0"><img alt="Talon v2.4.0 prerelease" src="https://img.shields.io/badge/Talon-v2.4.0-crimson"></a>
+  <a href="https://github.com/rune-gh/ellen-joe-league-skins/releases/tag/talon-v2.4.0"><img alt="Talon v2.4.0 prerelease" src="https://img.shields.io/badge/Talon-v2.4.0-crimson"></a>
   <img alt="In-game testing pending" src="https://img.shields.io/badge/status-in--game_testing_pending-orange">
-  <a href="https://github.com/runefoo/ellen-joe-league-skins/actions/workflows/validate.yml"><img alt="Package validation" src="https://github.com/runefoo/ellen-joe-league-skins/actions/workflows/validate.yml/badge.svg"></a>
+  <a href="https://github.com/rune-gh/ellen-joe-league-skins/actions/workflows/validate.yml"><img alt="Package validation" src="https://github.com/rune-gh/ellen-joe-league-skins/actions/workflows/validate.yml/badge.svg"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/runefoo/ellen-joe-league-skins/releases/tag/talon-v2.4.0">Download</a> ·
+  <a href="https://github.com/rune-gh/ellen-joe-league-skins/releases/tag/talon-v2.4.0">Download</a> ·
   <a href="docs/INSTALLATION.md">Installation</a> ·
   <a href="docs/KNOWN_ISSUES.md">Known issues</a> ·
   <a href="CREDITS.md">Credits</a>
@@ -23,7 +23,7 @@
 
 | Champion | Version | Status | Download |
 | --- | --- | --- | --- |
-| Talon — base skin | 2.4.0 | Prerelease; in-game verification pending | [Download .fantome](https://github.com/runefoo/ellen-joe-league-skins/releases/download/talon-v2.4.0/Ellen_Joe_Talon_V2_4.fantome) |
+| Talon — base skin | 2.4.0 | Prerelease; in-game verification pending | [Download .fantome](https://github.com/rune-gh/ellen-joe-league-skins/releases/download/talon-v2.4.0/Ellen_Joe_Talon_V2_4.fantome) |
 
 This repository is dedicated to **Ellen Joe custom skins for League of Legends**. Talon is the first maintained skin here. The original Ellen Joe Samira mod is credited as an input to this adaptation; it is not presented as a separately maintained release.
 
@@ -40,7 +40,7 @@ The preview above comes from the skin package. The portrait at the top is AI-gen
 
 ## Install
 
-1. Download `Ellen_Joe_Talon_V2_4.fantome` from the [v2.4 prerelease](https://github.com/runefoo/ellen-joe-league-skins/releases/tag/talon-v2.4.0).
+1. Download `Ellen_Joe_Talon_V2_4.fantome` from the [v2.4 prerelease](https://github.com/rune-gh/ellen-joe-league-skins/releases/tag/talon-v2.4.0).
 2. Import it into a mod manager that supports `.fantome` packages, following the manager's instructions.
 3. Enable only one Talon skin replacement and select **base Talon** in League.
 4. Use Practice Tool for the [in-game acceptance checks](docs/KNOWN_ISSUES.md) before treating this version as verified.
